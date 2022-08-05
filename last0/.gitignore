@@ -42,63 +42,7 @@ Generated\ Files/
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
-[Bb]uild[Ll]og.*
-
-# NUnit
-*.VisualState.xml
-TestResult.xml
-nunit-*.xml
-
-# Build Results of an ATL Project
-[Dd]ebugPS/
-[Rr]eleasePS/
-dlldata.c
-
-# Benchmark Results
-BenchmarkDotNet.Artifacts/
-
-# .NET
-project.lock.json
-project.fragment.lock.json
-artifacts/
-
-# Tye
-.tye/
-
-# ASP.NET Scaffolding
-ScaffoldingReadMe.txt
-
-# StyleCop
-StyleCopReport.xml
-
-# Files built by Visual Studio
-*_i.c
-*_p.c
-*_h.h
-*.ilk
-*.meta
-*.obj
-*.iobj
-*.pch
-*.pdb
-*.ipdb
-*.pgc
-*.pgd
-*.rsp
-*.sbr
-*.tlb
-*.tli
-*.tlh
-*.tmp
-*.tmp_proj
-*_wpftmp.csproj
-*.log
-*.vspscc
-*.vssscc
-.builds
-*.pidb
-*.svclog
-*.scc
+git remote add origin https://github.com/GRMarkVL/C-1.git
 
 # Chutzpah Test files
 _Chutzpah*
